@@ -12,6 +12,7 @@
         >
             <pre class="text-[0.1rem]/[0.125rem] p-4">{PFP_2}</pre>
         </div>
+        <!--
         <Job
             company={"Sales Marker - SWE"}
             companyColor={"#0766f4"}
@@ -20,6 +21,7 @@
             location={"Tokyo, Japan"}
             bulletPoints={["Incoming SWE for full stack development."]}
         />
+        -->
         <Job
             company={"Arista Networks - SWE Intern"}
             companyColor={"#002d60"}
