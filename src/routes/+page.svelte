@@ -57,7 +57,7 @@
         <div class="col-span-6 sm:col-span-3 box">
             <h4>work stuff</h4>
             <ul class="list">
-                <li>1.25yr SWE exp (and counting)</li>
+                <li>1.5yrs SWE exp (and counting)</li>
                 <li>1yr TA (comp arch, hardware & OS)</li>
                 <li>full stack, web, embedded, game</li>
             </ul>
@@ -65,13 +65,9 @@
         <div class="col-span-6 sm:col-span-3 box">
             <h4>current status</h4>
             <ul class="list">
-                <li>waiting for my visa</li>
-                <li>
-                    <a href="https://jobs.brendontsim.com" target="_blank"
-                        >job board project</a
-                    >
-                </li>
-                <li>reading cool textbooks</li>
+                <li>delivering shareholder value</li>
+                <li>reading blogs</li>
+                <li>managing logistics to move (again)</li>
             </ul>
         </div>
     </div>

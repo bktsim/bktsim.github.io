@@ -12,16 +12,16 @@
         >
             <pre class="text-[0.1rem]/[0.125rem] p-4">{PFP_2}</pre>
         </div>
-        <!--
         <Job
             company={"Sales Marker - SWE"}
             companyColor={"#0766f4"}
-            timeFrame={"11.2024 - Present"}
-            technologies={["TypeScript, Node.js"]}
+            timeFrame={"11.2024 - 02.2025"}
+            technologies={["TypeScript, React, Express, SQL"]}
             location={"Tokyo, Japan"}
-            bulletPoints={["Incoming SWE for full stack development."]}
+            bulletPoints={[
+                "Full stack application development on Sales Marker, the company's flagship product with React, TypeScript, Express and SQL.",
+            ]}
         />
-        -->
         <Job
             company={"Arista Networks - SWE Intern"}
             companyColor={"#002d60"}
