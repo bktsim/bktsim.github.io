@@ -12,6 +12,17 @@
         >
             <pre class="text-[0.1rem]/[0.125rem] p-4">{PFP_2}</pre>
         </div>
+        <div class="col-span-7 mt-2">
+            <h5 class="mb-0 pb-0">Full-time</h5>
+        </div>
+        <Job
+            company={"Google - SWE"}
+            companyColor={"#4285F4"}
+            timeFrame={"03.2025 - Present"}
+            technologies={["..."]}
+            location={"Kirkland, United States"}
+            bulletPoints={["Working on infrastructure."]}
+        />
         <Job
             company={"Sales Marker - SWE"}
             companyColor={"#0766f4"}
@@ -20,8 +31,14 @@
             location={"Tokyo, Japan"}
             bulletPoints={[
                 "Full stack application development on Sales Marker, the company's flagship product with React, TypeScript, Express and SQL.",
+                "Collaborated cross-team & led full-stack implementation for migration to a more reliable data source for company filtering, achieving 96.8% feature opt-in.",
+                "Increased user engagement, success on platform and feature adoption rate by 500% in 3 months through rapid iterations based on user activity data & feedback.",
+                "Increased time-on-task of analysis feature by 61.3% by identifying, linking and enabling additional data useful for users to understand platform effectiveness.",
             ]}
         />
+        <div class="col-span-7 mt-2">
+            <h5 class="mb-0 pb-0">Internships</h5>
+        </div>
         <Job
             company={"Arista Networks - SWE Intern"}
             companyColor={"#002d60"}

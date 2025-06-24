@@ -42,10 +42,11 @@
         <div class="col-span-6 box">
             <h4>about</h4>
             <p>
-                Full stack software engineer with a backend focus. <br />
+                Backend leaning full stack software engineer. <br />
                 <br class="sm:hidden" />
-                University of British Columbia (Canada) graduate. Currently based
-                in Japan. <br /> <br class="sm:hidden" />
+                Graduated from The University of British Columbia. Currently based
+                in Seattle.
+                <br /> <br class="sm:hidden" />
                 Interested in too many things, but mainly distsys, applied ML and
                 performance eng. Diving into databases, GPUs, ML workflows, large
                 compute infra and web optimizations.
@@ -65,9 +66,9 @@
         <div class="col-span-6 sm:col-span-3 box">
             <h4>current status</h4>
             <ul class="list">
-                <li>delivering shareholder value</li>
-                <li>reading blogs</li>
-                <li>managing logistics to move (again)</li>
+                <li>reading manga</li>
+                <li>settling down from the move</li>
+                <li>recreationally reading & writing</li>
             </ul>
         </div>
     </div>
