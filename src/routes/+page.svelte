@@ -42,7 +42,8 @@
         <div class="col-span-6 box">
             <h4>about</h4>
             <p>
-                Backend leaning full stack software engineer. <br />
+                I-will-learn-whatever-to-get-the-job-done software engineer.
+                <br />
                 <br class="sm:hidden" />
                 Graduated from The University of British Columbia. Currently based
                 in Seattle.
@@ -58,7 +59,7 @@
         <div class="col-span-6 sm:col-span-3 box">
             <h4>work stuff</h4>
             <ul class="list">
-                <li>1.5yrs SWE exp (and counting)</li>
+                <li>2yrs SWE exp (and counting)</li>
                 <li>1yr TA (comp arch, hardware & OS)</li>
                 <li>full stack, web, embedded, game</li>
             </ul>
@@ -67,8 +68,8 @@
             <h4>current status</h4>
             <ul class="list">
                 <li>reading manga</li>
-                <li>settling down from the move</li>
-                <li>recreationally reading & writing</li>
+                <li>reading more manga</li>
+                <li>ocassionally going to the arcade</li>
             </ul>
         </div>
     </div>

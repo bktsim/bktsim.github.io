@@ -17,17 +17,22 @@
         </div>
         <Job
             company={"Google - SWE"}
-            companyColor={"#4285F4"}
+            companyColor={"#3C4043"}
             timeFrame={"03.2025 - Present"}
-            technologies={["..."]}
+            technologies={[
+                "Python, Java, TypeScript, Angular",
+                "Bunch of Google stuff",
+            ]}
             location={"Kirkland, United States"}
-            bulletPoints={["Working on infrastructure."]}
+            bulletPoints={[
+                "Designing and improving cloud security infrastructure for developers.",
+            ]}
         />
         <Job
             company={"Sales Marker - SWE"}
             companyColor={"#0766f4"}
             timeFrame={"11.2024 - 02.2025"}
-            technologies={["TypeScript, React, Express, SQL"]}
+            technologies={["TypeScript", "React", "Express", "SQL", "Datadog"]}
             location={"Tokyo, Japan"}
             bulletPoints={[
                 "Full stack application development on Sales Marker, the company's flagship product with React, TypeScript, Express and SQL.",
@@ -66,7 +71,7 @@
             company={"Kai Shing - SWE Intern"}
             companyColor={"#d2bd60"}
             timeFrame={"05.2021 - 07.2021"}
-            technologies={["Java, Python, Spring Boot, SQL, Liquid"]}
+            technologies={["Java", "Python", "Spring Boot", "SQL", "Liquid"]}
             location={"Hong Kong SAR"}
             bulletPoints={[
                 "Automated and improved existing processes taking up to ~2 days by building dashboards & data pipelines against identified bottlenecks.",
