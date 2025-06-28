@@ -79,5 +79,19 @@
                 "Created API endpoints for data processing using Azure APIM and Liquid.",
             ]}
         />
+        <div class="col-span-7 mt-2">
+            <h5 class="mb-0 pb-0">Education</h5>
+        </div>
+        <Job
+            company={"The University of British Columbia"}
+            companyColor={"#002145"}
+            timeFrame={"2020 - 2024"}
+            technologies={["BSc Computer Science"]}
+            location={"Vancouver, Canada"}
+            bulletPoints={[
+                "Teaching Assistant in systems courses for 1 year, including Computer Hardware & Operating Systems (01/24 - 04/24), Computer Systems (09/22 - 12/22) and Models of Computation (09/21 - 12/21).",
+                "Received Faculty of Science International Student Scholarship and Trek Excellence Scholarship for strong academic achivement.",
+            ]}
+        />
     </div>
 </main>

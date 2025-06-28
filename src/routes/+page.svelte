@@ -42,11 +42,8 @@
         <div class="col-span-6 box">
             <h4>about</h4>
             <p>
-                I-will-learn-whatever-to-get-the-job-done software engineer.
-                <br />
-                <br class="sm:hidden" />
-                Graduated from The University of British Columbia. Currently based
-                in Seattle.
+                Graduated from The University of British Columbia. Currently
+                based in Seattle.
                 <br /> <br class="sm:hidden" />
                 Interested in too many things, but mainly distsys, applied ML and
                 performance eng. Diving into databases, GPUs, ML workflows, large
