@@ -19,10 +19,7 @@
             company={"Google - SWE"}
             companyColor={"#3C4043"}
             timeFrame={"03.2025 - Present"}
-            technologies={[
-                "Python, Java, TypeScript, Angular",
-                "Bunch of Google stuff",
-            ]}
+            technologies={["Python, Java, TypeScript, Angular", "Google Tech"]}
             location={"Kirkland, United States"}
             bulletPoints={[
                 "Designing and improving cloud security infrastructure for developers.",
@@ -32,7 +29,14 @@
             company={"Sales Marker - SWE"}
             companyColor={"#0766f4"}
             timeFrame={"11.2024 - 02.2025"}
-            technologies={["TypeScript", "React", "Express", "SQL", "Datadog"]}
+            technologies={[
+                "TypeScript",
+                "React",
+                "Express",
+                "SQL",
+                "AWS",
+                "Datadog",
+            ]}
             location={"Tokyo, Japan"}
             bulletPoints={[
                 "Full stack application development on Sales Marker, the company's flagship product with React, TypeScript, Express and SQL.",
@@ -71,7 +75,14 @@
             company={"Kai Shing - SWE Intern"}
             companyColor={"#d2bd60"}
             timeFrame={"05.2021 - 07.2021"}
-            technologies={["Java", "Python", "Spring Boot", "SQL", "Liquid"]}
+            technologies={[
+                "Java",
+                "Python",
+                "Spring Boot",
+                "SQL",
+                "Azure",
+                "Liquid",
+            ]}
             location={"Hong Kong SAR"}
             bulletPoints={[
                 "Automated and improved existing processes taking up to ~2 days by building dashboards & data pipelines against identified bottlenecks.",
@@ -85,12 +96,22 @@
         <Job
             company={"The University of British Columbia"}
             companyColor={"#002145"}
-            timeFrame={"2020 - 2024"}
+            timeFrame={"09.2020 - 05.2024"}
             technologies={["BSc Computer Science"]}
             location={"Vancouver, Canada"}
             bulletPoints={[
                 "Teaching Assistant in systems courses for 1 year, including Computer Hardware & Operating Systems (01/24 - 04/24), Computer Systems (09/22 - 12/22) and Models of Computation (09/21 - 12/21).",
                 "Received Faculty of Science International Student Scholarship and Trek Excellence Scholarship for strong academic achivement.",
+            ]}
+        />
+        <Job
+            company={"Waseda University"}
+            companyColor={"#911D22"}
+            timeFrame={"04.2023 - 06.2023"}
+            technologies={["Exchange Term"]}
+            location={"Tokyo, Japan"}
+            bulletPoints={[
+                "Pitched to the class on why you should watch VTubers in Japanese. Rated #1 presentation in class, tied with another presenter.",
             ]}
         />
     </div>
