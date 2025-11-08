@@ -42,12 +42,12 @@
         <div class="col-span-6 box">
             <h4>about</h4>
             <p>
-                Graduated from The University of British Columbia. Currently
-                based in Seattle.
+                Software engineer currently in the US, but previously in Canada,
+                Japan and Hong Kong.
                 <br /> <br class="sm:hidden" />
-                Interested in too many things, but mainly distsys, applied ML and
-                performance eng. Diving into databases, GPUs, ML workflows, large
-                compute infra and web optimizations.
+                Interested in distsys, applied ML, performance eng and LLM applications.
+                <br /> <br class="sm:hidden" />
+                Diving into LLM and ML workflows, large compute infra and web optimizations.
                 <br /> <br class="sm:hidden" />
                 I read papers, make tea, play maimai, weeb out, snowboard and build
                 things.
@@ -58,15 +58,15 @@
             <ul class="list">
                 <li>2yrs SWE exp (and counting)</li>
                 <li>1yr TA (comp arch, hardware & OS)</li>
-                <li>full stack, web, embedded, game</li>
+                <li>full stack, web, embedded, game, ml</li>
             </ul>
         </div>
         <div class="col-span-6 sm:col-span-3 box">
             <h4>current status</h4>
             <ul class="list">
                 <li>reading manga</li>
-                <li>reading more manga</li>
-                <li>ocassionally going to the arcade</li>
+                <li>maimai USA!!</li>
+                <li>watching anime of the season</li>
             </ul>
         </div>
     </div>

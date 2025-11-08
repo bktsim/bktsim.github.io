@@ -25,12 +25,7 @@
                     others. Includes articles and cool reads that I keep for
                     reference or for sharing.
                 </p>
-                <p class="pt-3">
-                    Not listed in order of interest or priority. Anything that
-                    I'm working on has a WIP tag attached. Others have TODO. No
-                    tag means done. Balancing between building, learning, work
-                    and hobbies. Learning new cool things is fun!
-                </p>
+                <p class="pt-3">Not listed in order of interest or priority.</p>
             </div>
         </div>
     </div>
@@ -43,13 +38,12 @@
             >
         </li>
         <li>
-            WIP: <a
-                href="https://15445.courses.cs.cmu.edu/fall2023/"
-                target="_blank">CMU, Database Systems</a
+            <a href="https://15445.courses.cs.cmu.edu/fall2023/" target="_blank"
+                >CMU, Database Systems</a
             >
         </li>
         <li>
-            TODO: <a
+            <a
                 href="https://15721.courses.cs.cmu.edu/spring2024/"
                 target="_blank">CMU, Advanced Database Systems</a
             >
@@ -58,7 +52,7 @@
     <br />
     <h5>distsys</h5>
     <ul class="list">
-        <li>WIP: Designing Data Intensive Applications</li>
+        <li>Designing Data Intensive Applications</li>
         <li>
             <a
                 href="https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/"
@@ -73,14 +67,14 @@
                 target="_blank"
             >
                 DistSys design and lessons</a
-            > by Jeff Dean. (TODO: make BOTE table with updated numbers.)
+            > by Jeff Dean.
         </li>
     </ul>
     <br />
     <h5>comparch / performance</h5>
     <ul class="list">
         <li>
-            TODO: <a
+            <a
                 href="https://safari.ethz.ch/architecture/fall2023/doku.php?id=start
 "
                 target="_blank"
@@ -89,13 +83,13 @@
             >
         </li>
         <li>
-            TODO: <a
+            <a
                 href="https://safari.ethz.ch/digitaltechnik/spring2022/doku.php?id=start
 ">ETH Zurich, Digital Design and Computer Architecture</a
             >
         </li>
         <li>
-            TODO: <a
+            <a
                 href="https://safari.ethz.ch/architecture_seminar/fall2024/doku.php?id=start
 "
                 target="_blank"
@@ -104,7 +98,7 @@
             </a>
         </li>
         <li>
-            TODO: <a
+            <a
                 href="https://safari.ethz.ch/projects_and_seminars/spring2023/doku.php?id=heterogeneous_systems"
                 target="_blank"
             >
