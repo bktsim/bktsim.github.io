@@ -22,7 +22,7 @@
             technologies={["Python, Java, TypeScript, Angular", "Google Tech"]}
             location={"Kirkland, United States"}
             bulletPoints={[
-                "Designing and improving cloud security infrastructure for developers.",
+                "Working on cloud security infrastructure for security & compliance.",
             ]}
         />
         <Job

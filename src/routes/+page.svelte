@@ -42,7 +42,7 @@
         <div class="col-span-6 box">
             <h4>about</h4>
             <p>
-                Software engineer currently in the US, but previously in Canada,
+                Software engineer currently in the US; Previously in Canada,
                 Japan and Hong Kong.
                 <br /> <br class="sm:hidden" />
                 Interested in distsys, applied ML, performance eng and LLM applications.
@@ -54,7 +54,7 @@
             </p>
         </div>
         <div class="col-span-6 sm:col-span-3 box">
-            <h4>work stuff</h4>
+            <h4>work</h4>
             <ul class="list">
                 <li>2yrs SWE exp (and counting)</li>
                 <li>1yr TA (comp arch, hardware & OS)</li>
@@ -62,11 +62,11 @@
             </ul>
         </div>
         <div class="col-span-6 sm:col-span-3 box">
-            <h4>current status</h4>
+            <h4>currently</h4>
             <ul class="list">
                 <li>reading manga</li>
-                <li>maimai USA!!</li>
-                <li>watching anime of the season</li>
+                <li>playing maimai over the weekends</li>
+                <li>flying too much</li>
             </ul>
         </div>
     </div>
