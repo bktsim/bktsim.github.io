@@ -21,8 +21,16 @@
             timeFrame={"03.2025 - Present"}
             technologies={["Python, Java, TypeScript, Angular", "Google Tech"]}
             location={"Kirkland, United States"}
-            bulletPoints={[
-                "Working on cloud security infrastructure for security & compliance.",
+            sectionedBulletPoints={[
+                {
+                    title: "Cloud Security, Infrastructure",
+                    points: [
+                        "Served as owner in test authoring on compliance & testing platform, planning roadmaps, triaging & resolving production issues and customer escalations.",
+                        "Increased issue resolution rate by 41% & decreased resolution time by 76% by planning & executing multi-quarter roadmaps improving the onboarding experience.",
+                        "Reduced onboarding time by ~3 weeks/mo by identifying, analyzing and designing solutions (Web UI, MCP, Agent Orchestrations) to solve user pains & bottlenecks.",
+                        "Enabled automations saving ~6 days/team & protected against $XXXk/mo resource leaks by designing & implementing a registry to manage test environments.",
+                    ],
+                },
             ]}
         />
         <Job

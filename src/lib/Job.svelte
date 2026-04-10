@@ -4,6 +4,7 @@
     export let location;
     export let technologies;
     export let bulletPoints;
+    export let sectionedBulletPoints;
     export let companyColor;
     let dropdownOpen = false;
     const handleDropdownClick = () => {
@@ -29,12 +30,25 @@
         </p>
     </div>
     {#if dropdownOpen}
-        <ul class={`list ${dropdownOpen ? "" : "hidden"}`}>
-            {#each bulletPoints as bulletPoint}
-                <li>
-                    {bulletPoint}
-                </li>
+        {#if bulletPoints}
+            <ul class={`list ${dropdownOpen ? "" : "hidden"}`}>
+                {#each bulletPoints as bulletPoint}
+                    <li>
+                        {bulletPoint}
+                    </li>
+                {/each}
+            </ul>
+        {:else if sectionedBulletPoints}
+            {#each sectionedBulletPoints as sectionedBulletPoint}
+                <b>{sectionedBulletPoint.title}</b>
+                <ul class={`list ${dropdownOpen ? "" : "hidden"}`}>
+                    {#each sectionedBulletPoint.points as bulletPoint}
+                        <li>
+                            {bulletPoint}
+                        </li>
+                    {/each}
+                </ul>
             {/each}
-        </ul>
+        {/if}
     {/if}
 </button>
