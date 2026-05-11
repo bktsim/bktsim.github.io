@@ -23,6 +23,12 @@
             location={"Kirkland, United States"}
             sectionedBulletPoints={[
                 {
+                    title: "Applied AI, Agent Engineering",
+                    points: [
+                        "Empowering customers to build and adopt agentic solutions for real problems.",
+                    ],
+                },
+                {
                     title: "Cloud Security, Infrastructure",
                     points: [
                         "Served as owner in test authoring on compliance & testing platform, planning roadmaps, triaging & resolving production issues and customer escalations.",

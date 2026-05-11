@@ -56,7 +56,7 @@
         <div class="col-span-6 sm:col-span-3 box">
             <h4>work</h4>
             <ul class="list">
-                <li>2yrs SWE exp (and counting)</li>
+                <li>agent engineering @ google</li>
                 <li>1yr TA (comp arch, hardware & OS)</li>
                 <li>full stack, web, embedded, game, ml</li>
             </ul>
@@ -65,8 +65,8 @@
             <h4>currently</h4>
             <ul class="list">
                 <li>reading manga</li>
-                <li>playing maimai over the weekends</li>
-                <li>flying too much</li>
+                <li>eyes glued to the screen</li>
+                <li>writing code for myself</li>
             </ul>
         </div>
     </div>

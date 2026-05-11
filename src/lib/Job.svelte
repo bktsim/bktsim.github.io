@@ -41,7 +41,7 @@
         {:else if sectionedBulletPoints}
             {#each sectionedBulletPoints as sectionedBulletPoint}
                 <b>{sectionedBulletPoint.title}</b>
-                <ul class={`list ${dropdownOpen ? "" : "hidden"}`}>
+                <ul class={`list ${dropdownOpen ? "mb-2" : "hidden"}`}>
                     {#each sectionedBulletPoint.points as bulletPoint}
                         <li>
                             {bulletPoint}
